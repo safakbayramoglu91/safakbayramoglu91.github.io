@@ -1,0 +1,4 @@
+{
+	"amob_open_app" : "aHR0cHM6Ly9nb29nbGUuY29t",
+	"goog_data_key" : "aHR0cHM6Ly9hbmVyb2dlLnNpdGU="
+}
